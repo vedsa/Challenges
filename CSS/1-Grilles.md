@@ -11,10 +11,12 @@ Le designer vous a fourni une maquette pour un formulaire sur le logiciel Figma 
 - L'intégration doit être responsive.
 - L'utilisation de framework est autorisée.
 
-## Pour parcitiper
+## Pour participer
 
 Vous pouvez éditer ce fichier directement sur github en mettant votre pseudo suivi d'un lien codesandbox/jsfiddle ou autre permettant de voir cotre réponse
 
 ## Vos solutions
 
 - Pseudo - https://grafikart.fr/exemple-de-lien
+
+- Vedsa - https://jsfiddle.net/azwp21ex/
